@@ -1,0 +1,9 @@
+[project]
+name = "data-structures-algorithms"
+version = "0.1.0"
+description = "data-structures-algorithms"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.3.2",
+]
